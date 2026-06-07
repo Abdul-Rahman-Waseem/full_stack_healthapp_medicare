@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/admin/doctors": "pages/admin/doctors.js",
+  "/admin/patients": "pages/admin/patients.js",
+  "/admin/appointments": "pages/admin/appointments.js",
+  "/admin/prescriptions": "pages/admin/prescriptions.js",
+  "/admin/treatments": "pages/admin/treatments.js",
+  "/admin/dashboard": "pages/admin/dashboard.js"
+}
